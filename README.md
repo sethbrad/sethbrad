@@ -1,7 +1,9 @@
 ### Hi there 👋
 
-- 🔭 I’m currently working on ... My final year of study as a Computer Engineering Student
-- 🌱 I’m currently learning ... Embedded Systems Design, Advanced C/C++, and the Parallax Propeller for my Senior Capstone
+![sethbrad's GitHub Stats](https://github-readme-stats.vercel.app/api?username=sethbrad&count_private=true&show_icons=true&theme=tokyonight)
+
+- 🔭 I’m currently working on ... starting some personal projects, I just finished college!
+- 🌱 I’m currently learning ... mostly stuff about Linux ricing
 - 👯 I’m looking to collaborate on ... Game development and audio application projects
 - 🤔 I’m looking for help with ... Bettering my systems programming skills in C/C++
 - 💬 Ask me about ... My hobbies
