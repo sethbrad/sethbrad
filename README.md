@@ -10,3 +10,5 @@
 - 📫 How to reach me: ... Hit the links in my bio!
 - 😄 Pronouns: ... He/Him
 - ⚡ Fun fact: ... I have a pet gecko
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sethbrad&theme=gruvbox)](https://github.com/anuraghazra/github-readme-stats)
