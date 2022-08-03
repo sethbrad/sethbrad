@@ -1,6 +1,4 @@
-### Hi there 👋
-
-![sethbrad's GitHub Stats](https://github-readme-stats.vercel.app/api?username=sethbrad&count_private=true&show_icons=true&theme=gruvbox)
+### Hi there, I'm Seth 👋
 
 - 🔭 I’m currently working on ... starting some personal projects, I just finished college!
 - 🌱 I’m currently learning ... mostly stuff about Linux ricing
@@ -11,4 +9,5 @@
 - 😄 Pronouns: ... He/Him
 - ⚡ Fun fact: ... I have a pet gecko
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sethbrad&theme=gruvbox)](https://github.com/anuraghazra/github-readme-stats)
+![sethbrad's GitHub Stats](https://github-readme-stats.vercel.app/api?username=sethbrad&count_private=true&show_icons=true&theme=gruvbox)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sethbrad&theme=gruvbox)
