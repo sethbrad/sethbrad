@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-![sethbrad's GitHub Stats](https://github-readme-stats.vercel.app/api?username=sethbrad&count_private=true&show_icons=true&theme=tokyonight)
+![sethbrad's GitHub Stats](https://github-readme-stats.vercel.app/api?username=sethbrad&count_private=true&show_icons=true&theme=gruvbox)
 
 - 🔭 I’m currently working on ... starting some personal projects, I just finished college!
 - 🌱 I’m currently learning ... mostly stuff about Linux ricing
